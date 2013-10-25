@@ -1,0 +1,16 @@
+C:\Users\Zulkhair Abdullah D\Documents\GitHub\ProyekWP\ConverterSuhu\ConverterSuhu\obj\Debug\App.g.i.cs
+C:\Users\Zulkhair Abdullah D\Documents\GitHub\ProyekWP\ConverterSuhu\ConverterSuhu\obj\Debug\MainPage.g.i.cs
+C:\Users\Zulkhair Abdullah D\Documents\GitHub\ProyekWP\ConverterSuhu\ConverterSuhu\obj\Debug\Celcius.g.i.cs
+C:\Users\Zulkhair Abdullah D\Documents\GitHub\ProyekWP\ConverterSuhu\ConverterSuhu\obj\Debug\ConverterSuhu.g.resources
+C:\Users\Zulkhair Abdullah D\Documents\GitHub\ProyekWP\ConverterSuhu\ConverterSuhu\Bin\Debug\ApplicationIcon.png
+C:\Users\Zulkhair Abdullah D\Documents\GitHub\ProyekWP\ConverterSuhu\ConverterSuhu\Bin\Debug\Background.png
+C:\Users\Zulkhair Abdullah D\Documents\GitHub\ProyekWP\ConverterSuhu\ConverterSuhu\Bin\Debug\ConverterSuhu.dll
+C:\Users\Zulkhair Abdullah D\Documents\GitHub\ProyekWP\ConverterSuhu\ConverterSuhu\Bin\Debug\ConverterSuhu.pdb
+C:\Users\Zulkhair Abdullah D\Documents\GitHub\ProyekWP\ConverterSuhu\ConverterSuhu\Bin\Debug\AppManifest.xaml
+C:\Users\Zulkhair Abdullah D\Documents\GitHub\ProyekWP\ConverterSuhu\ConverterSuhu\Bin\Debug\ConverterSuhu.xap
+C:\Users\Zulkhair Abdullah D\Documents\GitHub\ProyekWP\ConverterSuhu\ConverterSuhu\obj\Debug\ConverterSuhu.dll
+C:\Users\Zulkhair Abdullah D\Documents\GitHub\ProyekWP\ConverterSuhu\ConverterSuhu\obj\Debug\ConverterSuhu.pdb
+C:\Users\Zulkhair Abdullah D\Documents\GitHub\ProyekWP\ConverterSuhu\ConverterSuhu\obj\Debug\XapCacheFile.xml
+C:\Users\Zulkhair Abdullah D\Documents\GitHub\ProyekWP\ConverterSuhu\ConverterSuhu\obj\Debug\Reamur.g.i.cs
+C:\Users\Zulkhair Abdullah D\Documents\GitHub\ProyekWP\ConverterSuhu\ConverterSuhu\obj\Debug\Farenheit.g.i.cs
+C:\Users\Zulkhair Abdullah D\Documents\GitHub\ProyekWP\ConverterSuhu\ConverterSuhu\obj\Debug\Kelvin.g.i.cs
